@@ -1,0 +1,4 @@
+boto3
+Flask
+mysql-connector-python
+requests
